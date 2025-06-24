@@ -1,0 +1,1 @@
+# edd-auto-select-payment
